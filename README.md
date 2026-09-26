@@ -1,3 +1,4 @@
+https://arxiv.org/pdf/2412.20138
 <p align="center">
   <img src="assets/TauricResearch.png" style="width: 60%; height: auto;">
 </p>
